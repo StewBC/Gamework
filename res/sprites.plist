@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitmap</key>
+		<string>defender-font.png</string>
+		<key>fontcharacters</key>
+		<string>ABCDEFGHIJKLMNOPQRSTUVWXYZ !.&quot;0123456789:=?</string>
+		<key>frames</key>
+		<array>
+			<string>{{97, 0}, {6, 8}}</string>
+			<string>{{103, 0}, {6, 8}}</string>
+			<string>{{109, 0}, {6, 8}}</string>
+			<string>{{115, 0}, {6, 8}}</string>
+			<string>{{121, 0}, {6, 8}}</string>
+			<string>{{127, 0}, {6, 8}}</string>
+			<string>{{1, 8}, {6, 8}}</string>
+			<string>{{7, 8}, {6, 8}}</string>
+			<string>{{13, 8}, {6, 8}}</string>
+			<string>{{19, 8}, {6, 8}}</string>
+			<string>{{25, 8}, {6, 8}}</string>
+			<string>{{31, 8}, {6, 8}}</string>
+			<string>{{37, 8}, {8, 8}}</string>
+			<string>{{45, 8}, {6, 8}}</string>
+			<string>{{51, 8}, {6, 8}}</string>
+			<string>{{57, 8}, {6, 8}}</string>
+			<string>{{63, 8}, {6, 8}}</string>
+			<string>{{69, 8}, {6, 8}}</string>
+			<string>{{75, 8}, {6, 8}}</string>
+			<string>{{81, 8}, {7, 8}}</string>
+			<string>{{88, 8}, {6, 8}}</string>
+			<string>{{94, 8}, {6, 8}}</string>
+			<string>{{100, 8}, {7, 8}}</string>
+			<string>{{107, 8}, {6, 8}}</string>
+			<string>{{113, 8}, {6, 8}}</string>
+			<string>{{119, 8}, {6, 8}}</string>
+			<string>{{125, 8}, {6, 8}}</string>
+			<string>{{1, 0}, {6, 8}}</string>
+			<string>{{7, 0}, {6, 8}}</string>
+			<string>{{13, 0}, {6, 8}}</string>
+			<string>{{19, 0}, {6, 8}}</string>
+			<string>{{25, 0}, {6, 8}}</string>
+			<string>{{31, 0}, {6, 8}}</string>
+			<string>{{37, 0}, {6, 8}}</string>
+			<string>{{43, 0}, {6, 8}}</string>
+			<string>{{49, 0}, {6, 8}}</string>
+			<string>{{55, 0}, {6, 8}}</string>
+			<string>{{61, 0}, {6, 8}}</string>
+			<string>{{67, 0}, {6, 8}}</string>
+			<string>{{73, 0}, {6, 8}}</string>
+			<string>{{79, 0}, {6, 8}}</string>
+			<string>{{85, 0}, {6, 8}}</string>
+			<string>{{91, 0}, {6, 8}}</string>
+		</array>
+	</dict>
+	<dict>
+		<key>bitmap</key>
+		<string>consolas.png</string>
+		<key>frames</key>
+		<array>
+			<string>{{0, 0}, {10, 16}}</string>
+			<string>{{10, 0}, {10, 16}}</string>
+			<string>{{20, 0}, {10, 16}}</string>
+			<string>{{30, 0}, {10, 16}}</string>
+			<string>{{40, 0}, {10, 16}}</string>
+			<string>{{50, 0}, {10, 16}}</string>
+			<string>{{60, 0}, {10, 16}}</string>
+			<string>{{70, 0}, {10, 16}}</string>
+			<string>{{80, 0}, {10, 16}}</string>
+			<string>{{90, 0}, {10, 16}}</string>
+			<string>{{100, 0}, {10, 16}}</string>
+			<string>{{110, 0}, {10, 16}}</string>
+			<string>{{120, 0}, {10, 16}}</string>
+			<string>{{130, 0}, {10, 16}}</string>
+			<string>{{140, 0}, {10, 16}}</string>
+			<string>{{150, 0}, {10, 16}}</string>
+			<string>{{160, 0}, {10, 16}}</string>
+			<string>{{170, 0}, {10, 16}}</string>
+			<string>{{180, 0}, {10, 16}}</string>
+			<string>{{190, 0}, {10, 16}}</string>
+			<string>{{200, 0}, {10, 16}}</string>
+			<string>{{210, 0}, {10, 16}}</string>
+			<string>{{220, 0}, {10, 16}}</string>
+			<string>{{230, 0}, {10, 16}}</string>
+			<string>{{240, 0}, {10, 16}}</string>
+			<string>{{0, 18}, {10, 16}}</string>
+			<string>{{10, 18}, {10, 16}}</string>
+			<string>{{20, 18}, {10, 16}}</string>
+			<string>{{30, 18}, {10, 16}}</string>
+			<string>{{40, 18}, {10, 16}}</string>
+			<string>{{50, 18}, {10, 16}}</string>
+			<string>{{60, 18}, {10, 16}}</string>
+			<string>{{70, 18}, {10, 16}}</string>
+			<string>{{80, 18}, {10, 16}}</string>
+			<string>{{90, 18}, {10, 16}}</string>
+			<string>{{100, 18}, {10, 16}}</string>
+			<string>{{110, 18}, {10, 16}}</string>
+			<string>{{120, 18}, {10, 16}}</string>
+			<string>{{130, 18}, {10, 16}}</string>
+			<string>{{140, 18}, {10, 16}}</string>
+			<string>{{150, 18}, {10, 16}}</string>
+			<string>{{160, 18}, {10, 16}}</string>
+			<string>{{170, 18}, {10, 16}}</string>
+			<string>{{180, 18}, {10, 16}}</string>
+			<string>{{190, 18}, {10, 16}}</string>
+			<string>{{200, 18}, {10, 16}}</string>
+			<string>{{210, 18}, {10, 16}}</string>
+			<string>{{220, 18}, {10, 16}}</string>
+			<string>{{230, 18}, {10, 16}}</string>
+			<string>{{240, 18}, {10, 16}}</string>
+			<string>{{0, 36}, {10, 16}}</string>
+			<string>{{10, 36}, {10, 16}}</string>
+			<string>{{20, 36}, {10, 16}}</string>
+			<string>{{30, 36}, {10, 16}}</string>
+			<string>{{40, 36}, {10, 16}}</string>
+			<string>{{50, 36}, {10, 16}}</string>
+			<string>{{60, 36}, {10, 16}}</string>
+			<string>{{70, 36}, {10, 16}}</string>
+			<string>{{80, 36}, {10, 16}}</string>
+			<string>{{90, 36}, {10, 16}}</string>
+			<string>{{100, 36}, {10, 16}}</string>
+			<string>{{110, 36}, {10, 16}}</string>
+			<string>{{120, 36}, {10, 16}}</string>
+			<string>{{130, 36}, {10, 16}}</string>
+			<string>{{140, 36}, {10, 16}}</string>
+			<string>{{150, 36}, {10, 16}}</string>
+			<string>{{160, 36}, {10, 16}}</string>
+			<string>{{170, 36}, {10, 16}}</string>
+			<string>{{180, 36}, {10, 16}}</string>
+			<string>{{190, 36}, {10, 16}}</string>
+			<string>{{200, 36}, {10, 16}}</string>
+			<string>{{210, 36}, {10, 16}}</string>
+			<string>{{220, 36}, {10, 16}}</string>
+			<string>{{230, 36}, {10, 16}}</string>
+			<string>{{240, 36}, {10, 16}}</string>
+			<string>{{0, 54}, {10, 16}}</string>
+			<string>{{10, 54}, {10, 16}}</string>
+			<string>{{20, 54}, {10, 16}}</string>
+			<string>{{30, 54}, {10, 16}}</string>
+			<string>{{40, 54}, {10, 16}}</string>
+			<string>{{50, 54}, {10, 16}}</string>
+			<string>{{60, 54}, {10, 16}}</string>
+			<string>{{70, 54}, {10, 16}}</string>
+			<string>{{80, 54}, {10, 16}}</string>
+			<string>{{90, 54}, {10, 16}}</string>
+			<string>{{100, 54}, {10, 16}}</string>
+			<string>{{110, 54}, {10, 16}}</string>
+			<string>{{120, 54}, {10, 16}}</string>
+			<string>{{130, 54}, {10, 16}}</string>
+			<string>{{140, 54}, {10, 16}}</string>
+			<string>{{150, 54}, {10, 16}}</string>
+			<string>{{160, 54}, {10, 16}}</string>
+			<string>{{170, 54}, {10, 16}}</string>
+			<string>{{180, 54}, {10, 16}}</string>
+			<string>{{190, 54}, {10, 16}}</string>
+			<string>{{200, 54}, {10, 16}}</string>
+			<string>{{210, 54}, {10, 16}}</string>
+			<string>{{220, 54}, {10, 16}}</string>
+			<string>{{230, 54}, {10, 16}}</string>
+			<string>{{240, 54}, {10, 16}}</string>
+		</array>
+		<key>fontcharacters</key>
+		<string> !&quot;#$%&amp;&apos;()*+,-./0123456789";&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~</string>
+	</dict>
+	<dict>
+		<key>bitmap</key>
+		<string>font.png</string>
+		<key>frames</key>
+       <array>
+           <string>{{1, 0}, {13, 22}}</string>
+           <string>{{15, 0}, {13, 22}}</string>
+           <string>{{29, 0}, {13, 22}}</string>
+           <string>{{43, 0}, {13, 22}}</string>
+           <string>{{57, 0}, {13, 22}}</string>
+           <string>{{71, 0}, {13, 22}}</string>
+           <string>{{85, 0}, {13, 22}}</string>
+           <string>{{99, 0}, {13, 22}}</string>
+           <string>{{113, 0}, {13, 22}}</string>
+           <string>{{127, 0}, {13, 22}}</string>
+           <string>{{141, 0}, {13, 22}}</string>
+           <string>{{155, 0}, {13, 22}}</string>
+           <string>{{1, 23}, {13, 22}}</string>
+           <string>{{15, 23}, {13, 22}}</string>
+           <string>{{29, 23}, {13, 22}}</string>
+           <string>{{43, 23}, {13, 22}}</string>
+           <string>{{57, 23}, {13, 22}}</string>
+           <string>{{71, 23}, {13, 22}}</string>
+           <string>{{85, 23}, {13, 22}}</string>
+           <string>{{99, 23}, {13, 22}}</string>
+           <string>{{113, 23}, {13, 22}}</string>
+           <string>{{127, 23}, {13, 22}}</string>
+           <string>{{141, 23}, {13, 22}}</string>
+           <string>{{155, 23}, {13, 22}}</string>
+           <string>{{1, 46}, {13, 22}}</string>
+           <string>{{15, 46}, {13, 22}}</string>
+           <string>{{29, 46}, {13, 22}}</string>
+           <string>{{43, 46}, {13, 22}}</string>
+           <string>{{57, 46}, {13, 22}}</string>
+           <string>{{71, 46}, {13, 22}}</string>
+           <string>{{85, 46}, {13, 22}}</string>
+           <string>{{99, 46}, {13, 22}}</string>
+           <string>{{113, 46}, {13, 22}}</string>
+           <string>{{127, 46}, {13, 22}}</string>
+           <string>{{141, 46}, {13, 22}}</string>
+           <string>{{155, 46}, {13, 22}}</string>
+           <string>{{1, 69}, {13, 22}}</string>
+           <string>{{15, 69}, {13, 22}}</string>
+           <string>{{29, 69}, {13, 22}}</string>
+           <string>{{43, 69}, {13, 22}}</string>
+           <string>{{57, 69}, {13, 22}}</string>
+           <string>{{71, 69}, {13, 22}}</string>
+           <string>{{85, 69}, {13, 22}}</string>
+           <string>{{99, 69}, {13, 22}}</string>
+           <string>{{113, 69}, {13, 22}}</string>
+           <string>{{127, 69}, {13, 22}}</string>
+           <string>{{141, 69}, {13, 22}}</string>
+           <string>{{155, 69}, {13, 22}}</string>
+           <string>{{1, 92}, {13, 22}}</string>
+           <string>{{15, 92}, {13, 22}}</string>
+           <string>{{29, 92}, {13, 22}}</string>
+           <string>{{43, 92}, {13, 22}}</string>
+           <string>{{57, 92}, {13, 22}}</string>
+           <string>{{71, 92}, {13, 22}}</string>
+           <string>{{85, 92}, {13, 22}}</string>
+           <string>{{99, 92}, {13, 22}}</string>
+           <string>{{113, 92}, {13, 22}}</string>
+           <string>{{127, 92}, {13, 22}}</string>
+           <string>{{141, 92}, {13, 22}}</string>
+           <string>{{155, 92}, {13, 22}}</string>
+           <string>{{1, 115}, {13, 22}}</string>
+           <string>{{15, 115}, {13, 22}}</string>
+           <string>{{29, 115}, {13, 22}}</string>
+           <string>{{43, 115}, {13, 22}}</string>
+           <string>{{57, 115}, {13, 22}}</string>
+           <string>{{71, 115}, {13, 22}}</string>
+           <string>{{85, 115}, {13, 22}}</string>
+           <string>{{99, 115}, {13, 22}}</string>
+           <string>{{113, 115}, {13, 22}}</string>
+           <string>{{127, 115}, {13, 22}}</string>
+           <string>{{141, 115}, {13, 22}}</string>
+           <string>{{155, 115}, {13, 22}}</string>
+           <string>{{1, 138}, {13, 22}}</string>
+           <string>{{15, 138}, {13, 22}}</string>
+           <string>{{29, 138}, {13, 22}}</string>
+           <string>{{43, 138}, {13, 22}}</string>
+           <string>{{57, 138}, {13, 22}}</string>
+           <string>{{71, 138}, {13, 22}}</string>
+           <string>{{85, 138}, {13, 22}}</string>
+           <string>{{99, 138}, {13, 22}}</string>
+           <string>{{113, 138}, {13, 22}}</string>
+           <string>{{127, 138}, {13, 22}}</string>
+           <string>{{141, 138}, {13, 22}}</string>
+           <string>{{155, 138}, {13, 22}}</string>
+           <string>{{1, 161}, {13, 22}}</string>
+           <string>{{15, 161}, {13, 22}}</string>
+           <string>{{29, 161}, {13, 22}}</string>
+           <string>{{43, 161}, {13, 22}}</string>
+           <string>{{57, 161}, {13, 22}}</string>
+           <string>{{71, 161}, {13, 22}}</string>
+           <string>{{85, 161}, {13, 22}}</string>
+           <string>{{99, 161}, {13, 22}}</string>
+           <string>{{113, 161}, {13, 22}}</string>
+           <string>{{127, 161}, {13, 22}}</string>
+           <string>{{141, 161}, {13, 22}}</string>
+           <string>{{155, 161}, {13, 22}}</string>
+       </array>
+       <key>fontcharacters</key>
+       <string> !&quot;#$%&amp;&apos;()*+,-./0123456789";&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~</string>
+	</dict>
+	<dict>
+		<key>bitmap</key>
+		<string>sprites.png</string>
+		<key>frames</key>
+		<array>
+			<string>{{1, 1}, {15, 6}}</string>
+			<string>{{17, 1}, {15, 5}}</string>
+			<string>{{33, 1}, {7, 8}}</string>
+			<string>{{41, 1}, {7, 8}}</string>
+			<string>{{49, 1}, {7, 8}}</string>
+			<string>{{57, 1}, {7, 8}}</string>
+			<string>{{65, 1}, {7, 8}}</string>
+			<string>{{73, 1}, {7, 7}}</string>
+			<string>{{81, 1}, {7, 7}}</string>
+			<string>{{89, 1}, {7, 7}}</string>
+			<string>{{97, 1}, {6, 7}}</string>
+			<string>{{0, 1}, {7, 8}}</string>
+			<string>{{112, 1}, {7, 8}}</string>
+			<string>{{1, 8}, {15, 6}}</string>
+			<string>{{17, 7}, {15, 5}}</string>
+			<string>{{33, 10}, {7, 7}}</string>
+			<string>{{41, 10}, {7, 7}}</string>
+			<string>{{49, 10}, {7, 7}}</string>
+			<string>{{57, 10}, {11, 4}}</string>
+			<string>{{73, 9}, {7, 7}}</string>
+			<string>{{81, 9}, {7, 7}}</string>
+			<string>{{89, 9}, {7, 7}}</string>
+			<string>{{97, 9}, {6, 7}}</string>
+			<string>{{0, 10}, {7, 8}}</string>
+			<string>{{112, 10}, {7, 8}}</string>
+			<string>{{1, 15}, {15, 6}}</string>
+			<string>{{17, 13}, {15, 5}}</string>
+			<string>{{33, 18}, {3, 8}}</string>
+			<string>{{37, 18}, {3, 8}}</string>
+			<string>{{41, 18}, {1, 1}}</string>
+			<string>{{43, 18}, {1, 1}}</string>
+			<string>{{45, 18}, {5, 4}}</string>
+			<string>{{51, 18}, {3, 3}}</string>
+			<string>{{57, 15}, {11, 4}}</string>
+			<string>{{73, 17}, {7, 7}}</string>
+			<string>{{81, 17}, {7, 7}}</string>
+			<string>{{89, 17}, {7, 7}}</string>
+			<string>{{97, 17}, {6, 7}}</string>
+			<string>{{0, 19}, {7, 8}}</string>
+			<string>{{1, 22}, {15, 1}}</string>
+			<string>{{17, 19}, {15, 1}}</string>
+			<string>{{41, 20}, {1, 1}}</string>
+			<string>{{43, 20}, {1, 1}}</string>
+			<string>{{51, 22}, {3, 3}}</string>
+			<string>{{57, 20}, {11, 4}}</string>
+			<string>{{73, 25}, {7, 7}}</string>
+			<string>{{81, 25}, {7, 7}}</string>
+			<string>{{89, 25}, {7, 7}}</string>
+			<string>{{97, 25}, {6, 7}}</string>
+			<string>{{1, 24}, {15, 1}}</string>
+			<string>{{17, 21}, {15, 1}}</string>
+			<string>{{41, 22}, {1, 1}}</string>
+			<string>{{43, 22}, {1, 1}}</string>
+			<string>{{57, 25}, {6, 3}}</string>
+			<string>{{1, 26}, {15, 1}}</string>
+			<string>{{17, 23}, {15, 1}}</string>
+			<string>{{41, 24}, {1, 1}}</string>
+			<string>{{43, 24}, {1, 1}}</string>
+			<string>{{17, 25}, {15, 1}}</string>
+			<string>{{30, 1}, {2, 5}}</string>
+			<string>{{30, 7}, {2, 5}}</string>
+			<string>{{30, 13}, {2, 5}}</string>
+		</array>
+		<key>anims</key>
+		<array>
+			<dict>
+				<key>animName</key>
+				<string>pod</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>15</integer>
+					<integer>16</integer>
+					<integer>17</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>lasers</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>39</integer>
+					<integer>49</integer>
+					<integer>54</integer>
+					<integer>40</integer>
+					<integer>50</integer>
+					<integer>55</integer>
+					<integer>58</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>baiter</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>18</integer>
+					<integer>33</integer>
+					<integer>44</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>colors</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>29</integer>
+					<integer>30</integer>
+					<integer>41</integer>
+					<integer>42</integer>
+					<integer>51</integer>
+					<integer>52</integer>
+					<integer>56</integer>
+					<integer>57</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>thrust</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>1</integer>
+					<integer>14</integer>
+					<integer>26</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>mutant</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>2</integer>
+					<integer>3</integer>
+					<integer>4</integer>
+					<integer>5</integer>
+					<integer>6</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>swarmer</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>31</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>bomb</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>32</integer>
+					<integer>43</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>bomber</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>7</integer>
+					<integer>8</integer>
+					<integer>9</integer>
+					<integer>10</integer>
+					<integer>19</integer>
+					<integer>20</integer>
+					<integer>21</integer>
+					<integer>22</integer>
+					<integer>34</integer>
+					<integer>35</integer>
+					<integer>36</integer>
+					<integer>37</integer>
+					<integer>45</integer>
+					<integer>46</integer>
+					<integer>47</integer>
+					<integer>48</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>human</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>27</integer>
+					<integer>28</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>lander</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>11</integer>
+					<integer>12</integer>
+					<integer>23</integer>
+					<integer>24</integer>
+					<integer>38</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>player</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>0</integer>
+					<integer>13</integer>
+					<integer>25</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>smartbomb</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>53</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>animName</key>
+				<string>idle</string>
+				<key>frameIndex</key>
+				<array>
+					<integer>59</integer>
+					<integer>60</integer>
+					<integer>61</integer>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>bitmap</key>
+		<string>wessels.png</string>
+	</dict>
+</array>
+</plist>
